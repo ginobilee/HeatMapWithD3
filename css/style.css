@@ -1,0 +1,11 @@
+﻿body{
+	background-color:#999;
+	text-align:center;
+}
+.chart{
+	border:1px solid white;
+}
+.frag{
+	fill:red;
+	stroke:none;	
+}
