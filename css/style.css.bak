@@ -39,6 +39,6 @@ h3{
 .ptitle{
 	position:absolute;
 	top:50px;
-	left:30%;
+	left:40%;
 	text-align:center;
 }
